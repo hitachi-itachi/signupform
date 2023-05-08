@@ -1,0 +1,24 @@
+body .form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+body .lastName {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+body .username {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+body label {
+    display: inline-block;
+    clear: left;
+    text-align: right;
+    width: 180px;
+    padding: 10px;
+
+}
