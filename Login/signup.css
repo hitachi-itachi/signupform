@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body .form {
     display: flex;
     flex-direction: column;
@@ -22,4 +23,6 @@ body label {
     padding-right: 10px;
     display: inline-block;
 
+=======
+>>>>>>> c01e16da461ad8731d0cfbb20875c70f8fbb33ed
 }
